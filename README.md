@@ -11,8 +11,8 @@ This Power BI dashboard provides insights into sales performance for the year 20
 
 ## Tools Used
 - **Power BI**: For dashboard creation and data visualization.
--SQL Server: Data Analysis.
-- **Excel / CSV**: Data Cleaning.
+- **SQL Server: Restore the backup file and clean the data.
+
 
 ## Screenshot
 ![Dashboard Preview](Screenshots.png)
