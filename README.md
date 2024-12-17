@@ -15,7 +15,7 @@ This Power BI dashboard provides insights into sales performance for the year 20
 - **Excel / CSV**: Data Cleaning.
 
 ## Screenshot
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](screenshots/dashboard)
 
 ## How to View the File
 1. Download the `.pbix` file from this repository.
